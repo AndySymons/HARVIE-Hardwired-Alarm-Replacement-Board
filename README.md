@@ -1,7 +1,6 @@
 # HARVIE-Hardwired-Alarm-Replacement-Board
 
-Details to follow 
-
+For details see [the Wiki](https://github.com/AndySymons/HARVIE-Hardwired-Alarm-Replacement-Board/wiki/Introduction)
 
 
 ---
